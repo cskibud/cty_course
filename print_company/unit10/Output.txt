@@ -1,0 +1,139 @@
+You will be prompted to enter information on 3 employees.
+
+Please enter information on employee #1
+
+Enter their first name:
+John
+
+Enter their last name: 
+Winston
+
+Enter the month they were hired as an interger (eg. January = 1, Febuary = 2... December = 12): 
+6
+
+Enter the day they were hired: 
+14
+
+Enter the year they were hired: 
+2001
+
+Enter the amount of vacation days they have left: 
+10
+
+Enter the last review they were given:
+Good job!
+
+
+Please enter information on employee #2
+
+Enter their first name:
+Katie
+
+Enter their last name:
+Alexis
+
+Enter the month they were hired as an interger (eg. January = 1, Febuary = 2... December = 12):
+3
+
+Enter the day they were hired:
+27
+
+Enter the year they were hired:
+2005
+
+Enter the amount of vacation days they have left:
+10
+
+Enter the last review they were given:
+Your analysis was spot-on!
+
+
+Please enter information on employee #3
+
+Enter their first name:
+Charles
+
+Enter their last name:
+Steinbeck
+
+Enter the month they were hired as an interger (eg. January = 1, Febuary = 2... December = 12):
+12
+
+Enter the day they were hired:
+5
+
+Enter the year they were hired:
+2008
+
+Enter the amount of vacation days they have left:
+10
+
+Enter the last review they were given:
+Overall, well done.
+
+
+
+How many vacation days would you like to schedule for employee #1?
+5
+
+How many vacation days would you like to cancel for employee #1?
+1
+
+Would you like to terminate employee #1?
+Enter 1 for yes and 2 for no:
+2
+
+
+
+How many vacation days would you like to schedule for employee #2?
+9
+
+How many vacation days would you like to cancel for employee #2?
+5
+
+Would you like to terminate employee #2?
+Enter 1 for yes and 2 for no:
+2
+
+
+
+How many vacation days would you like to schedule for employee #3?
+10
+
+How many vacation days would you like to cancel for employee #3?
+2
+
+Would you like to terminate employee #3?
+Enter 1 for yes and 2 for no:
+1
+
+
+Employee Information
+First Name: John
+Last Name: Winston
+Full Name: John Winston
+Date of Hire: 6/14/2001
+Date of Termination: null
+Vacation Days Left: 6
+Vacation Days Scheduled: 4
+Last Review: Good job!
+
+Employee Information
+First Name: Katie
+Last Name: Alexis
+Full Name: Katie Alexis
+Date of Hire: 3/27/2005
+Date of Termination: null
+Vacation Days Left: 6
+Vacation Days Scheduled: 4
+Last Review: Your analysis was spot-on!
+
+Employee Information
+First Name: Charles
+Last Name: Steinbeck
+Full Name: Charles Steinbeck
+Date of Hire: 12/5/2008
+Date of Termination: 5/17/2023
+Vacation Days Left: 2
+Vacation Days Scheduled: 8
+Last Review: Overall, well done.

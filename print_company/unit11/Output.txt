@@ -1,0 +1,212 @@
+Enter the number corresponding to the action you would like to perform.
+1. View administration actions
+2. View reports
+1
+
+
+Enter a 4-digit branch ID:
+1000
+Your next changes will be done on the branch in Baltimore
+
+Enter the number corresponding to the action you would like to perform.
+1. Assign a manager to supervise the branch
+2. Assign an employee to the branch team
+3. Remove an employee from the branch team
+1
+Which manager do you want assign as supervisor?
+
+
+Enter 1-3:
+1
+
+
+-----------------------------------
+1. Return to menu
+2. Exit
+1
+
+Enter the number corresponding to the action you would like to perform.
+1. View administration actions
+2. View reports
+2
+
+Enter the number corresponding to the action you would like to perform.
+1. View a report of manager and employees for a specific location
+2. View a cumulative report of all employees sorted by branch location, including total managers and total number of employees for the company    
+2
+
+
+Baltimore Branche
+
+Supervisor Information
+First Name: F
+Last Name: G
+Full Name: F G
+Branch ID: 1000
+
+Team Information
+Employee #1
+
+First Name: Bob
+Last Name: Builder
+Full Name: Bob Builder
+Date of Hire: 6/5/2001
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good job!
+Employee ID: 1111
+
+
+Employee #2
+
+First Name: Leo
+Last Name: Narda
+Full Name: Leo Narda
+Date of Hire: 12/18/2015
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Tqm
+Employee ID: 2222
+
+
+Employee #3
+
+First Name: Bob
+Last Name: Builder
+Full Name: Bob Builder
+Date of Hire: 6/5/2001
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good job!
+Employee ID: 3333
+
+
+Employee #4
+
+First Name: Kat
+Last Name: Niss
+Full Name: Kat Niss
+Date of Hire: 12/18/2015
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good.
+Employee ID: 4444
+
+
+The total number of employees on the team is 4.
+
+
+Boston Branche
+
+Supervisor Information
+First Name: V
+Last Name: T
+Full Name: V T
+Branch ID: 9999
+
+Team Information
+Employee #1
+
+First Name: Bob
+Last Name: Builder
+Full Name: Bob Builder
+Date of Hire: 6/5/2001
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good job!
+Employee ID: 55555
+
+
+Employee #2
+
+First Name: Leo
+Last Name: Narda
+Full Name: Leo Narda
+Date of Hire: 12/18/2015
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Great!
+Employee ID: 6666
+
+
+Employee #3
+
+First Name: Bob
+Last Name: Builder
+Full Name: Bob Builder
+Date of Hire: 6/5/2001
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good job!
+Employee ID: 7777
+
+
+The total number of employees on the team is 3.
+
+
+New York Branche
+
+Supervisor Information
+First Name: S
+Last Name: K
+Full Name: S K
+Branch ID: 9999
+
+Team Information
+Employee #1
+
+First Name: Pleo
+Last Name: Narda
+Full Name: Pleo Narda
+Date of Hire: 12/18/2015
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Yes.
+Employee ID: 8888
+
+
+Employee #2
+
+First Name: Bob
+Last Name: Builder
+Full Name: Bob Builder
+Date of Hire: 6/5/2001
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Good job!
+Employee ID: 9999
+
+
+Employee #3
+
+First Name: Creo
+Last Name: Narda
+Full Name: Creo Narda
+Date of Hire: 12/18/2015
+Date of Termination: null
+Vacation Days Left: 10
+Vacation Days Scheduled: 0
+Last Review: Thanks.
+Employee ID: 1212
+
+
+The total number of employees on the team is 3.
+
+
+The total number of managers is: 3
+The total number of employees is: 10
+
+
+-----------------------------------
+1. Return to menu
+2. Exit
+2

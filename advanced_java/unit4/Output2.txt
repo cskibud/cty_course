@@ -1,0 +1,73 @@
+Welcome to the profit and loss calculator
+Please enter the following information:
+Configure Paintings:
+Selling Price:
+not a price
+Please enter a valid monetary value. Do not include the "$" symbol.
+Selling Price:
+20
+Cost to Company:
+15
+Configure Sketches:
+Selling Price:     
+$13
+Please enter a valid monetary value. Do not include the "$" symbol.
+Selling Price:
+13
+Cost to Company:
+10
+Configure Photographs:
+Selling Price:
+7
+Cost to Company:
+0
+
+
+How many orders will you be entering?
+3
+Order 1 - which product?
+Enter 1 for Painting, 2 for Sketch, 3 for Photograph:
+4
+Please enter a valid integer as prompted.
+Order 1 - which product?
+Enter 1 for Painting, 2 for Sketch, 3 for Photograph:
+1
+Order 1 - quantity?
+-1
+Please enter a valid integer as prompted.
+Order 1 - quantity?
+3
+Order 2 - which product?
+Enter 1 for Painting, 2 for Sketch, 3 for Photograph:
+2
+Order 2 - quantity?
+2
+Order 3 - which product?
+Enter 1 for Painting, 2 for Sketch, 3 for Photograph:
+3
+Order 3 - quantity?
+1
+
+
+Order Summarization:
+*******************************
+
+Order 1: 3 painting(s) at $20.00
+Order 2: 2 sketch(es) at $13.00
+Order 3: 1 photograph(s) at $7.00
+Order Customer Total: $93.00
+Order Cost Total: $65.00
+
+
+Profit and Loss Calculation:
+*******************************
+
+On this order you have a Profit of: $28.00
+
+
+Profit Margin Calculations:
+*******************************
+Paintings: 33%
+Sketch: 30%
+Cannot calculate the profit margin because the cost is zero and division by zero is not possible.
+Photographs: 100%

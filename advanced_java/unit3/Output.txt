@@ -1,0 +1,34 @@
+Welcome to the product manager for Blue Heart!
+
+
+Enter the following information for a painting:
+Title:
+Lilies
+Painter:
+Rose Vin
+Type:
+Realism
+
+
+Enter the following information for a sketch:
+Title:
+Boredom
+Sketcher:
+Haley Porter
+Technique Used:
+Scribbling
+
+
+Enter the following information for a photograph:
+Title:
+Dawn
+Photographer:
+Andy Matz
+Camera Used:
+Canon CN7x17 17-120mm
+
+
+Summary:
+Lilies, Rose Vin, Realism
+Boredom, Haley Porter, Scribbling
+Dawn, Andy Matz, Canon CN7x17 17-120mm

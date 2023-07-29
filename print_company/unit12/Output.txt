@@ -1,0 +1,177 @@
+To access inventory actions, enter 1
+To access sales actions, enter 2
+1
+
+Add a product to the system: 1
+View Inventory: 2
+Modify available inventory: 3
+2
+
+Available paintings:3
+Available sketches:3
+Available photographs:3
+Total available products:9
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+1
+To access inventory actions, enter 1
+To access sales actions, enter 2
+1
+
+Add a product to the system: 1
+View Inventory: 2
+Modify available inventory: 3
+1
+
+What would you like to add?
+Painting: 1
+Sketch: 2
+Photograph: 3
+1
+
+A painting has been added.
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+1
+To access inventory actions, enter 1
+To access sales actions, enter 2
+2
+
+View a list of products and their properties, including available quantity and pricing: 1   
+Buy a product: 2
+Return a product: 3
+3
+
+What is the type of product you are returning?
+Painting: 1
+Sketch: 2
+Photograph: 3
+3
+What is the title?
+Flower
+Who is the artist/photographer?
+Rose Dan
+What is the length?
+5
+What is the width?
+4
+
+The product has been successfully returned.
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+1
+To access inventory actions, enter 1
+To access sales actions, enter 2
+2
+
+View a list of products and their properties, including available quantity and pricing: 1   
+Buy a product: 2
+Return a product: 3
+1
+
+1.
+Title: Lilies
+Painter: Claude Bonet
+Price $100.0
+
+2.
+Title: Water
+Painter: Leonardo Davinki
+Price $30.0
+
+3.
+Title: Night
+Painter: Brett Roberts
+Price $135.0
+
+4.
+Title: Silk
+Sketcher: Claire Little
+Price $12.0
+
+5.
+Title: Dancer
+Sketcher: Tom Nook
+Price $120.0
+
+6.
+Title: Moon
+Sketcher: Haley Blue
+Price $30.0
+
+7.
+Title: Hunt
+Photographer: Adams Ansel
+Price $21.0
+
+8.
+Title: Street
+Photographer: Anthony Whitmos
+Price $16.0
+
+9.
+Title: Flight
+Photographer: Marc Hans
+Price $56.0
+
+10.
+Title: Light
+Painter: New Bury
+Price $100.0
+
+11.
+Title: Flower
+Photographer: Rose Dan
+Price $10.0
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+1
+To access inventory actions, enter 1
+To access sales actions, enter 2
+2
+
+View a list of products and their properties, including available quantity and pricing: 1   
+Buy a product: 2
+Return a product: 3
+2
+
+Please view the list of products and enter the corresponding number, 1-11:
+8
+You have successfully bought the piece "Street"
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+1
+To access inventory actions, enter 1
+To access sales actions, enter 2    
+1
+
+Add a product to the system: 1
+View Inventory: 2
+Modify available inventory: 3 
+2
+
+Available paintings:4      
+Available sketches:3       
+Available photographs:3    
+Total available products:10
+
+
+-----------------------------------
+Return to menu: 1
+Exit: 2
+2

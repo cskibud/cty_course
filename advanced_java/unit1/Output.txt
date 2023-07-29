@@ -1,0 +1,80 @@
+Welcome to the Competitor Management System, how many companies will you be entering?
+3
+
+
+Please enter information for company 1
+What is the name of the company?
+A&C
+Who is the CEO?
+Artz Eric
+What industry is the company part of?
+Art
+What type of company is it (public or private)?
+public
+Does the company sell paintings?
+yes
+Does the company sell sketches?
+yes
+Does the company sell photographs?
+no
+
+
+Please enter information for company 2
+What is the name of the company?
+Alfa Studios
+Who is the CEO?
+Alfa Leas
+What industry is the company part of?
+Art
+What type of company is it (public or private)?
+private
+Does the company sell paintings?
+yes
+Does the company sell sketches?
+no
+Does the company sell photographs?
+no
+
+
+Please enter information for company 3
+What is the name of the company?
+Blue Heart
+Who is the CEO?
+Aelsec Nile
+What industry is the company part of?
+Art
+What type of company is it (public or private)?
+private
+Does the company sell paintings?
+yes
+Does the company sell sketches?
+yes
+Does the company sell photographs?
+yes
+
+
+Company review:
+
+Company name: A&C
+CEO: Artz Eric
+Industry: Art
+Type: public
+Sells paintings: yes
+Sells sketches: yes
+Sells photographs: no
+
+Company name: Alfa Studios
+CEO: Alfa Leas
+Industry: Art
+Type: private
+Sells paintings: yes
+Sells sketches: no
+Sells photographs: no
+
+Company name: Blue Heart
+CEO: Aelsec Nile
+Industry: Art
+Type: private
+Sells paintings: yes
+Sells sketches: yes
+Sells photographs: yes

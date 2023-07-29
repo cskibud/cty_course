@@ -1,0 +1,77 @@
+Welcome to the Employee Management System, how many employees will you be entering?   
+3
+
+
+Which type of employee are you entering? Enter 1 for Hourly, 2 for Salaried, and 3 for Contractor:
+1
+Enter the following information for this Hourly employee.
+Employee's Name:
+John Major
+Job Title:
+Data Analyst
+Hired Month:
+7
+Hired Day:
+12
+Hired Year:
+2015
+Hourly Rate:
+40
+Hours Worked:
+50
+
+
+Which type of employee are you entering? Enter 1 for Hourly, 2 for Salaried, and 3 for Contractor:
+2
+Enter the following information for this Salaried employee.
+Employee's Name:
+Karishma Sunder
+Job Title:
+Software Engineer
+Hired Month:
+1
+Hired Day:
+6
+Hired Year:
+2013
+Salary:
+75000
+Bonus:
+3000
+
+
+Which type of employee are you entering? Enter 1 for Hourly, 2 for Salaried, and 3 for Contractor:
+3
+Enter the following information for this Contractor.
+Employee's Name:
+Gabriel Rosaline
+Job Title:
+Oracle DB Support
+Hired Month:
+2
+Hired Day:
+6
+Hired Year:
+2014
+Contracted Start Month:
+8
+Contracted Start Day:
+20
+Contracted Start Year:
+2020
+Contracted End Month:
+8
+Contracted End Day:
+20
+Contracted End Year:
+2021
+Hourly Rate:
+50
+Company:
+Roberts Consulting
+
+
+Report:
+John Major - Data Analyst, Hourly Employee. Last paycheck: $2,000.00
+Karishma Sunder - Software Engineer, Salaried Employee. Last paycheck: $2,884.62      
+Gabriel Rosaline - Oracle DB Support, Contractor with Roberts Consulting. Last paycheck: $4,000.00

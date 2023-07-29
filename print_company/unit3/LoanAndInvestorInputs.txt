@@ -1,0 +1,4 @@
+Company present value: 10,000,000 (ten million) 
+Loan amount: 2 million at 5.5% for 5 years 
+Investor amount: 2 million for 20% for 5 years 
+Growth rate: 150% per year
