@@ -2,9 +2,9 @@ package advanced_java.midtermProject;
 import javax.swing.*;
 
 public class ReportOut {
-    public JTable reportOut(Product[] products) {
+    public static JTable reportOut(Product[] products) {
         String[] columnNames = { "Product Name", "Customer Name", "Warehouse Name", "Purchase Cost", "Stocking Cost", "Sale Price" };
-        Object[][] productInfo = new Object[5][6];
+        Object[][] productInfo = new Object[products.length][columnNames.length];
         for (int i = 0; i < products.length; i++) {
             productInfo[i][0] = products[i].getProductName();
             productInfo[i][1] = products[i].getCustomer().customerName;
